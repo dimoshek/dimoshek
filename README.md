@@ -1,21 +1,20 @@
+<p align="center">
+  <img src="banner.png" alt="MARTHELL" width="100%" />
+</p>
+
 <h1 align="center">Дмитрий Сизов</h1>
 
 <p align="center">
   <code>@dimoshek</code> &nbsp;/&nbsp; дизайнер &nbsp;/&nbsp; основатель MARTHELL
 </p>
 
-<p align="center">
-  Брендинг, визуал и контент. Параллельно учусь писать код.
-</p>
-
 <br>
 
-| | |
-|---|---|
-| **Кто** | Студент колледжа, дизайнер |
-| **Студия** | MARTHELL — брендинг, сайты, соцсети |
-| **Сейчас** | Учу C, Python, HTML/CSS |
-| **Вне кода** | Фото, короткие видео, AI-визуал |
+## Обо мне
+
+Я учусь в колледже и развиваю свою дизайн-студию MARTHELL. Делаю брендинг, сайты и материалы для соцсетей. Параллельно учу C, Python и HTML/CSS и решаю олимпиадные задачи, чтобы лучше понимать, как устроены продукты, которые я проектирую.
+
+Вне кода занимаюсь фотографией, короткими видео и AI-визуалом.
 
 <br>
 
@@ -38,13 +37,9 @@
 
 ## Инструменты
 
-![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-111111?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-111111?style=flat-square&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-111111?style=flat-square&logo=apple&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=c,py,html,css,figma,git,md&perline=7" alt="C, Python, HTML, CSS, Figma, Git, Markdown" />
+</p>
 
 <br>
 
