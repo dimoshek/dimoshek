@@ -5,7 +5,7 @@
 <h1 align="center">Дмитрий Сизов</h1>
 
 <p align="center">
-  <code>@dimoshek</code> &nbsp;/&nbsp; дизайнер &nbsp;/&nbsp; основатель MARTHELL
+  <code>@dimoshek</code> &nbsp;/&nbsp; дизайнер &nbsp;/&nbsp; programming enjoyer
 </p>
 
 <br>
