@@ -1,42 +1,62 @@
-# Привет, я Дмитрий 👋 (@dimoshek)
+<h1 align="center">Дмитрий Сизов</h1>
 
-### 👨‍🎨 Обо мне
+<p align="center">
+  <code>@dimoshek</code> &nbsp;/&nbsp; дизайнер &nbsp;/&nbsp; основатель MARTHELL
+</p>
 
-- 🎓 Студент колледжа
-- 🎨 Основатель дизайн-студии **MARTHELL**: брендинг, сайты, соцсети
-- 💻 Учу **C, Python, HTML/CSS**
-- 📷 Фотография, короткие видео, AI-визуал
+<p align="center">
+  Брендинг, визуал и контент. Параллельно учусь писать код.
+</p>
 
----
+<br>
 
-### 📚 Практика
+| | |
+|---|---|
+| **Кто** | Студент колледжа, дизайнер |
+| **Студия** | MARTHELL — брендинг, сайты, соцсети |
+| **Сейчас** | Учу C, Python, HTML/CSS |
+| **Вне кода** | Фото, короткие видео, AI-визуал |
 
-📂 **[c_olymp](https://github.com/dimoshek/c_olymp)**
+<br>
 
-Олимпиадные задачи: Codeforces, Timus, Яндекс, задачник Абрамяна.
+## Проекты
 
----
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/dimoshek/c_olymp"><b>c_olymp</b></a><br>
+      <sub>Олимпиадные задачи: Codeforces, Timus, Яндекс, Абрамян. Язык: C.</sub>
+    </td>
+    <td width="50%">
+      <b>MARTHELL</b><br>
+      <sub>Дизайн-студия. Сайт в планах.</sub>
+    </td>
+  </tr>
+</table>
 
-### 🛠️ Стек
+<br>
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+## Инструменты
 
----
+![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-111111?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-111111?style=flat-square&logo=css3&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-111111?style=flat-square&logo=apple&logoColor=white)
 
-### 📊 Статистика
+<br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimoshek&show_icons=true&theme=rose_pine&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimoshek&layout=compact&theme=rose_pine&hide_border=true" width="48%" />
-</div>
+## Цифры
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dimoshek&show_icons=true&theme=transparent&hide_border=true&title_color=888888&icon_color=888888&text_color=888888" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimoshek&layout=compact&theme=transparent&hide_border=true&title_color=888888&text_color=888888" width="48%" />
+</p>
 
-### 📫 Связь
+<br>
 
-[![Telegram](https://img.shields.io/badge/Telegram-@dimoshek-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dimoshek)
+## Связь
+
+[![Telegram](https://img.shields.io/badge/Telegram-@dimoshek-111111?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dimoshek)
